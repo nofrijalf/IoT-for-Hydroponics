@@ -5,4 +5,4 @@ with LED UV as an actuators and Submersible water pump 5v as an actuators.
 Using MQTT as protocol and node-red as the gateway and node-red as a dashboard and using PHPmyAdmin for the database.
  
  
- for the demo video visit this link : https://youtu.be/Hbs7MmxYhH4
+ for the demo video visit this link : 
